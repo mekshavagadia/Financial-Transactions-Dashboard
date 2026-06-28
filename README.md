@@ -198,4 +198,5 @@ Through this project, I gained hands-on experience in:
 **Meksha Vagadia**
 
 🔗 GitHub: https://github.com/mekshavagadia
-🔗 LinkedIn: https://www.linkedin.com/in/meksha-vagadia/
+🔗 LinkedIn: www.linkedin.com/in/meksha-vagadia-775573322
+
