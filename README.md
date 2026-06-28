@@ -1,39 +1,39 @@
-💳 Financial Transactions Dashboard
+# 💳 Financial Transactions Dashboard
 
-A complete Python Data Analytics Project that analyzes customer financial card data to generate meaningful business insights using Python, Pandas, NumPy, and Matplotlib. The project demonstrates the complete data analytics workflow, including data cleaning, exploratory data analysis (EDA), visualization, feature engineering, and KPI reporting.
+A complete **Python Data Analytics Project** that analyzes customer financial card data to generate meaningful business insights using **Python, Pandas, NumPy, and Matplotlib**. This project demonstrates the complete data analytics workflow, including **data cleaning, exploratory data analysis (EDA), data visualization, feature engineering, and KPI reporting**.
 
+---
 
-📌 Project Overview
+# 📌 Project Overview
 
-The Financial Transactions Dashboard aims to transform raw customer card data into meaningful business insights. By analyzing customer information, credit limits, card brands, and security-related attributes, the project helps understand customer behavior and supports data-driven decision-making.
+The **Financial Transactions Dashboard** transforms raw customer card data into meaningful business insights. By analyzing customer information, card brands, card types, credit limits, and security-related attributes, the project helps understand customer behavior and supports data-driven decision-making.
 
-- Project Workflow
+### Project Workflow
 
 * Data Loading
 * Dataset Overview
-* Dataset Information
 * Data Quality Check
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
-* Univariate Analysis
-* Bivariate Analysis
-* Advanced Data Visualization
+* Data Visualization
 * Feature Engineering
-* Key Business Insights
-* Dashboard / KPI Summary
+* KPI Summary
+* Business Insights
 
+---
 
-🎯 Objectives
+# 🎯 Objectives
 
 * Analyze customer financial card information.
 * Study card brand and card type distribution.
 * Examine customer credit limits.
 * Analyze chip-enabled and non-chip cards.
-* Identify potential security risks.
-* Generate meaningful business insights.
-* Create KPI summaries for reporting and decision-making.
+* Generate KPI metrics.
+* Create meaningful business insights.
 
-🛠️ Technologies Used
+---
+
+# 🛠️ Technologies Used
 
 | Technology       | Purpose              |
 | ---------------- | -------------------- |
@@ -43,159 +43,141 @@ The Financial Transactions Dashboard aims to transform raw customer card data in
 | Matplotlib       | Data Visualization   |
 | Jupyter Notebook | Project Development  |
 
+---
 
-📂 Project Structure
+# 📂 Project Structure
 
+```
 Financial-Transactions-Dashboard/
 
 │
-
-├── Dataset/
+├── data/
 │   ├── cards_data.csv
 │   ├── cleaned_cards_data.csv
 │   ├── feature_engineered_cards_data.csv
 │   └── kpi_summary.csv
 │
 ├── Images/
-│   ├── All Generated Charts
+│   └── Generated Charts
 │
-├── Notebook/
-│   └── Financial_Transactions_Dashboard.ipynb
-│
-├── Documents/
-│   └── Project_Documentation.pdf
+├── notebooks/
+│   └── Financial Transactions Dashboard.ipynb
 │
 ├── README.md
 ├── requirements.txt
-└── LICENSE
+```
 
-📦 Project Workflow
+---
 
-Environment Setup
-        ↓
-Dataset Loading
-        ↓
-Dataset Overview
-        ↓
-Dataset Information
-        ↓
-Data Quality Check
-        ↓
-Data Cleaning & Preprocessing
-        ↓
-Exploratory Data Analysis (EDA)
-        ↓
-Univariate Analysis
-        ↓
-Bivariate Analysis
-        ↓
-Advanced Data Visualization
-        ↓
-Key Business Insights
-        ↓
-Feature Engineering
-        ↓
-Dashboard / KPI Summary
-
-📊 Key Features
+# 📊 Key Features
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
-* Univariate Analysis
-* Bivariate Analysis
-* Advanced Data Visualization
+* Data Visualization
 * Feature Engineering
-* KPI Dashboard Summary
+* KPI Summary
 * Business Insights
-* Professional Documentation
+* Financial Data Analysis
 
-📈 Visualizations Included
+---
 
-The project contains various visualizations for better understanding of the dataset.
+# 📈 Visualizations Included
+
+The project includes multiple visualizations such as:
 
 * Bar Chart
 * Pie Chart
 * Histogram
 * Box Plot
-* Count Plot
 * Line Chart
 
-All generated charts are available inside the **Images/** folder.
+All generated charts are available in the **Images/** folder.
 
-📊 Dashboard KPIs
+---
 
-The dashboard summarizes important business metrics such as:
+# 📊 Dashboard KPIs
 
 * Total Customers
 * Total Cards
-* Total Card Brands
-* Total Card Types
+* Card Brands
+* Card Types
 * Average Credit Limit
 * Maximum Credit Limit
 * Chip Enabled Cards
 * Non-Chip Cards
-* Cards on Dark Web
+* Cards Found on Dark Web
 
-💡 Business Insights
+---
 
-The analysis provides valuable business insights, including:
+# 💡 Business Insights
 
-* Customer card usage patterns
+The analysis provides valuable insights including:
+
+* Customer card distribution analysis
 * Card brand comparison
-* Card type distribution analysis
-* Credit limit analysis
-* Chip-enabled vs. non-chip card analysis
-* Potential fraud risk analysis based on dark web card status
-* Customer segmentation based on card ownership
-* Dashboard-ready KPI metrics for business decision-making
+* Card type analysis
+* Credit limit distribution
+* Chip-enabled vs Non-chip card analysis
+* Dark web card analysis
+* Customer ownership analysis
+* KPI summary for business reporting
 
-🚀 Future Enhancements
+---
 
-The project can be further enhanced by implementing the following features:
+# 🚀 Future Enhancements
 
 * Interactive Power BI Dashboard
-* Customer Segmentation using advanced analytics
-* Real-time financial transaction monitoring
-* Predictive analytics for customer behavior
-* Machine Learning-based fraud prediction
-* Interactive web dashboard using Streamlit
+* Customer Segmentation
+* Real-time Financial Monitoring
+* Machine Learning-based Fraud Detection
+* Interactive Streamlit Dashboard
 
-▶️ How to Run
+---
 
-1. Clone the Repository
+# ▶️ How to Run
 
-git clone https://github.com/your-username/Financial-Transactions-Dashboard.git
+### 1. Clone the Repository
 
-2. Install Required Libraries
+```bash
+git clone https://github.com/mekshavagadia/Financial-Transactions-Dashboard.git```
 
+### 2. Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-3. Launch Jupyter Notebook
+### 3. Launch Jupyter Notebook
 
+```bash
 jupyter notebook
+```
 
-4. Open the Notebook
+### 4. Open the Notebook
 
-Run the file:
-Notebook/Financial_Transactions_Dashboard.ipynb
+```
+notebooks/Financial Transactions Dashboard.ipynb
+```
 
 Run all cells sequentially to reproduce the complete analysis.
 
+---
 
-📷 Project Screenshots
+# 📷 Project Screenshots
 
-All project charts, graphs, and visualizations are available inside the **Images/** folder.
+All charts and visualizations are available inside the **Images/** folder.
 
-Example screenshots include:
+Examples include:
 
 * Card Brand Distribution
 * Card Type Distribution
-* Credit Limit Distribution
+* Credit Limit Analysis
 * Chip Availability Analysis
-* Bivariate Analysis Charts
-* Dashboard KPI Summary
+* KPI Summary Dashboard
 
-📚 Learning Outcomes
+---
+
+# 📚 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -205,7 +187,7 @@ Through this project, I gained hands-on experience in:
 * Exploratory Data Analysis (EDA)
 * Data Visualization
 * Feature Engineering
-* Business Intelligence
 * KPI Analysis
 * Dashboard Development
-* Financial Data Analysis
+* Financial Data Analytics
+* Business Intelligence
