@@ -1,6 +1,6 @@
 # 💳 Financial Transactions Dashboard
 
-A complete **Python Data Analytics Project** that analyzes customer financial card data to generate meaningful business insights using **Python, Pandas, NumPy, and Matplotlib**. This project demonstrates the complete data analytics workflow, including **data cleaning, exploratory data analysis (EDA), data visualization, feature engineering, and KPI reporting**.
+A complete **Python Data Analytics Project** that analyzes customer financial card data to generate meaningful business insights using **Python, Pandas, NumPy, Matplotlib and Seaborn**. This project demonstrates the complete data analytics workflow, including **data cleaning, exploratory data analysis (EDA), data visualization, feature engineering, and KPI reporting**.
 
 ---
 
@@ -192,3 +192,10 @@ Through this project, I gained hands-on experience in:
 * Dashboard Development
 * Financial Data Analytics
 * Business Intelligence
+
+## 👩‍💻 Author
+
+**Meksha Vagadia**
+
+🔗 GitHub: https://github.com/mekshavagadia
+🔗 LinkedIn: https://www.linkedin.com/in/meksha-vagadia/
