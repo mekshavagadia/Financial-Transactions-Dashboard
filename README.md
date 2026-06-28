@@ -35,13 +35,14 @@ The **Financial Transactions Dashboard** transforms raw customer card data into 
 
 # 🛠️ Technologies Used
 
-| Technology       | Purpose              |
-| ---------------- | -------------------- |
-| Python           | Data Analysis        |
-| Pandas           | Data Manipulation    |
-| NumPy            | Numerical Operations |
-| Matplotlib       | Data Visualization   |
-| Jupyter Notebook | Project Development  |
+| Technology       | Purpose                       |
+| ---------------- | ----------------------------- |
+| Python           | Data Analysis                 |
+| Pandas           | Data Manipulation & Analysis  |
+| NumPy            | Numerical Operations          |
+| Matplotlib       | Data Visualization            |
+| Seaborn          | Statistical Data Visualization|
+| Jupyter Notebook | Project Development           |
 
 ---
 
