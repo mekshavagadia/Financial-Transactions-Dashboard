@@ -139,7 +139,8 @@ The analysis provides valuable insights including:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mekshavagadia/Financial-Transactions-Dashboard.git```
+git clone https://github.com/mekshavagadia/Financial-Transactions-Dashboard.git
+```
 
 ### 2. Install Dependencies
 
